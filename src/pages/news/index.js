@@ -1,4 +1,5 @@
-// our-domain.com/news
+// our-domain.com/news/something-important 
+//that can load nested pages on the nextjs
 
 const NewsPage = () => {
   return (
